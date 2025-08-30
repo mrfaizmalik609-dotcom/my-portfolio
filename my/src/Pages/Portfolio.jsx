@@ -595,7 +595,7 @@ function Portfolio() {
                 </div>
                 
                 <div className="project-footer">
-                  <a href="https://game1-ruddy-alpha.vercel.app/" target="_blank" className="project-link">
+                  <a href="https://game1-ruddy.vercel.app/" target="_blank" className="project-link">
                     Visit Live Site
                     <span className="external-icon">↗</span>
                   </a>
